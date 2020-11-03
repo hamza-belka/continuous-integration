@@ -1,0 +1,5 @@
+2020-10-25 00:52:18 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:28):28 - In ajouterEntreprise() : 
+2020-10-25 00:52:18 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:29):29 - Je vais lancer l ajout.
+2020-10-25 00:52:18 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:32):32 - Je viens de lancer la l'ajout de 2
+2020-10-25 00:52:18 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:33):33 - Je viens de finir l'ajout .
+2020-10-25 00:52:18 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterEntreprise(EntrepriseServiceImpl.java:34):34 - Out ajouterEntreprise() without errors.
