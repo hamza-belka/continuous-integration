@@ -1,1 +1,5 @@
-2020-11-03 20:58:11 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.affecterDepartementAEntreprise(EntrepriseServiceImpl.java:68):68 - ******* Je viens de finir l'affectation ********
+2020-11-04 11:38:47 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterDepartement(EntrepriseServiceImpl.java:47):47 - ******* Je viens de finir l'ajout ********
+2020-11-04 11:38:47 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.ajouterDepartement(EntrepriseServiceImpl.java:48):48 - Out ajouterDepartement() without errors.
+2020-11-04 11:38:47 [INFO ] tn.esprit.spring.services.EntrepriseServiceImpl.affecterDepartementAEntreprise(EntrepriseServiceImpl.java:60):60 - *****Begin In affecterDepartementAEntreprise()***** : 
+2020-11-04 11:38:47 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.affecterDepartementAEntreprise(EntrepriseServiceImpl.java:61):61 - Je vais lancer l laffection .
+2020-11-04 11:38:47 [DEBUG] tn.esprit.spring.services.EntrepriseServiceImpl.affecterDepartementAEntreprise(EntrepriseServiceImpl.java:68):68 - ******* Je viens de finir l'affectation ********
